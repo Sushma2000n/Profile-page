@@ -54,12 +54,7 @@ function ProfileScreen() {
       <Profile />  
        
     
-       {/* <Container maxWidth="lg">
-        <Grid item xs={12} sm={7}>
-        <Appbar />
-
-           </Grid>
-       </Container> */}
+       
         
       </div>
     </div>
